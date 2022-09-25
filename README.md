@@ -1,16 +1,5 @@
-pyca/cryptography
+Cryptography
 =================
-
-.. image:: https://img.shields.io/pypi/v/cryptography.svg
-    :target: https://pypi.org/project/cryptography/
-    :alt: Latest Version
-
-.. image:: https://readthedocs.org/projects/cryptography/badge/?version=latest
-    :target: https://cryptography.io
-    :alt: Latest Docs
-
-.. image:: https://github.com/pyca/cryptography/workflows/CI/badge.svg?branch=main
-    :target: https://github.com/pyca/cryptography/actions?query=workflow%3ACI+branch%3Amain
 
 
 ``cryptography`` is a package which provides cryptographic recipes and
